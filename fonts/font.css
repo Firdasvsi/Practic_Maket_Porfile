@@ -1,0 +1,15 @@
+/* Custom font weights */
+.poppins-regular {
+    font-weight: 400;
+    /* Regular weight */
+}
+
+.poppins-medium {
+    font-weight: 500;
+    /* Medium weight */
+}
+
+.poppins-semibold {
+    font-weight: 600;
+    /* Semibold weight */
+}
